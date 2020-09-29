@@ -1,0 +1,236 @@
+html {
+    background: #193C3D;
+    background-size: cover;
+    }
+
+body {
+    font-family: Amethysta, 'Times Sans Serif', sans-serif;
+    background-color: transparent;
+    border: 0.1px solid rgba(0, 0, 0, 0);
+    padding: 10px;
+    }
+
+
+head {
+    font-family: Amethysta, 'Times Sans Serif', sans-serif;
+    background-color: transparent;
+    border: 0.1px solid rgba(0, 0, 0, 0);
+    padding: 10px;
+    }
+
+    h1 {
+    font-family: Amethysta, 'Times Sans Serif', sans-serif;
+    text-align: center;
+    font-size: 10pt;
+    margin: 0 auto;
+    max-width: 450px;
+    height: auto;
+    background-color: #286062;
+    color: #ffffff;
+    border: 0.1px solid rgba(0, 0, 0, 0);
+    padding: 5px;
+    border-radius: 20px;
+    }
+
+    h2 {
+    font-family: Amethysta, 'Times Sans Serif', sans-serif;
+    text-align: center;
+    font-size: 9pt;
+    margin: 0 auto;
+    max-width: 90px;
+    height: auto;
+    background-color: #286062;
+    color: #ffffff;
+    border: 0.1px solid rgba(0, 0, 0, 0);
+    padding: 0.5px;
+    border-radius: 20px;
+    }
+
+    h3 {
+    font-family: Amethysta, 'Times Sans Serif', sans-serif;
+    text-align: center;
+    font-size: 6pt;
+    margin: 0 auto;
+    max-width: 90px;
+    height: auto;
+    background-color: #286062;
+    color: #ffffff;
+    border: 0.1px solid rgba(0, 0, 0, 0);
+    padding: 0.5px;
+    border-radius: 20px;
+    }
+
+    p {
+    font-family: Amethysta, 'Times Sans Serif', sans-serif;
+    text-align: justified;
+    font-size: 9pt;
+    margin: 0 auto;
+    background-color: transparent;
+    color: #26373D;
+    border: 0.1px solid rgba(0, 0, 0, 0);
+    padding: 0.5px;
+    font-kerning: normal;
+    border-radius: 5px;
+    }
+a{
+  color: white;
+  text-decoration: none !important;
+}
+
+.ai a{
+  color: #84AEAF;
+  font-weight: italic;
+}
+
+/*TITULO PRINCIPAL*/
+.TT{
+  background: #E0F4FB;
+  color: #26373D;
+  margin: 0 auto;
+}
+
+.TT_1 h2{
+  background: #32797B;
+  color: #ffffff;
+  margin: 0 auto;
+  text-align: center;
+  max-width: 110px
+}
+.TT_2 {
+  background: #E0F4FB;
+  color: #26373D;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/*PARRAFOS ESPECIFICOS*/
+.PP p{
+  background: #EAF8FC;
+  color: white;
+  margin: 0 auto;
+  text-align: justified;
+}
+
+.PP_1 p{
+  background: #1E4849;
+  color: white;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/*por si hay alteraciones*/
+.PP p{
+  color: white;
+}
+
+/*BOTONES*/
+button{
+  float: top;
+  padding: 1px;
+  border: -1px solid #035b5d;
+  border-radius: 20px;
+  width: auto;
+  height: auto;
+  max-height: 35px;
+  margin: 0 auto;
+  background: #035b5d;
+  display: inline;
+}
+
+.BT {
+  color: white;
+  background: #035b5d;
+  text-align: center;
+  display: inline;
+  line-height: 20px;
+  border-width: 3px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 8pt;
+}
+
+#B {
+  float: top;
+  padding: 3px solid;
+  margin: 0 auto;
+  margin-left: 1px;
+  margin-bottom: 5px;
+  border: 0px solid #035b5d;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 20px;
+  box-shadow: 0px 0px 8px rgba(0,0,0,0.4);
+}
+/*Otros Botones*/
+#B_2{
+  float: top;
+  padding: 3px solid;
+  margin: 0 auto;
+  margin-left: 10px;
+  border: 3px solid #5C8492;
+  display: inline;
+}
+
+#B_3{
+  float: top;
+  padding: 3px solid;
+  margin: 0 auto;
+  margin-left: 10px;
+  border: 3px solid #5C8492;
+  display: inline;
+  
+}
+/*LOGOS*/
+.LOG img{
+  float: right;
+  padding: 1px;
+  border: 1px transparent;
+  width: auto;
+  height: auto;
+  max-height: 27px;
+  max-width: 35%;
+  margin: 5px;
+  background: transparent;
+  display: inline;
+}
+
+.MLOG img{
+  float: top;
+  padding: 3px;
+  border: 1px solid #5C8492;
+  width: auto;
+  height: auto;
+  max-height: 25px;
+  max-width: 55%;
+  margin: 0 auto;
+  background: transparent;
+  display: inline;
+}
+
+/*IMAGENES*/
+.IM img{
+  float: top;
+  padding: 1px;
+  border: 1px solid #5C8492;
+  width: 100%;
+  height: auto;
+  max-height: 520px;
+  max-width: 605px;
+  margin: 0 auto;
+  background: transparent;
+  display: inline;
+}
+
+footer {
+  font-family: Amethysta, 'Times Sans Serif', sans-serif;
+  text-align: center;
+  font-size: 8pt;
+  margin: 0 auto;
+  max-width: 220px;
+  height: auto;
+  background-color: #286062;
+  color: #ffffff;
+  border: 0.1px solid rgba(0, 0, 0, 0);
+  padding: 0.5px;
+  border-radius: 20px;
+}
