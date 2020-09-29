@@ -182,7 +182,7 @@ button{
 }
 /*LOGOS*/
 .LOGo img{
-  float: top;
+  float: center;
   padding: 1px;
   border: 1px transparent;
   width: auto;
