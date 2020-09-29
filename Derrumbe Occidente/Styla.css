@@ -21,9 +21,9 @@ head {
     h1 {
     font-family: Amethysta, 'Times Sans Serif', sans-serif;
     text-align: center;
-    font-size: 10pt;
+    font-size: 12pt;
     margin: 0 auto;
-    max-width: 300px;
+    max-width: 250px;
     height: auto;
     background-color: #286062;
     color: #ffffff;
@@ -185,11 +185,11 @@ button{
   float: right;
   padding: 1px;
   border: 1px transparent;
-  width: auto;
+  width: 100%;
   height: auto;
   max-height: 28px;
-  max-width: 28%;
-  margin: 5px;
+  max-width: 27%;
+  margin: 6px;
   background: transparent;
   display: inline;
 }
