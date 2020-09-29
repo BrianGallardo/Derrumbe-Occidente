@@ -181,14 +181,14 @@ button{
   
 }
 /*LOGOS*/
-.LOG img{
+.LOGo img{
   float: right;
   padding: 1px;
   border: 1px transparent;
   width: auto;
   height: auto;
-  max-height: 27px;
-  max-width: 35%;
+  max-height: 30px;
+  max-width: 40%;
   margin: 5px;
   background: transparent;
   display: inline;
